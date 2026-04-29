@@ -1,0 +1,25 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+
+# Streamlit / Python
+.streamlit/secrets.toml
+
+# Node / frontend build
+node_modules/
+dist/
+build/
+
+# OS / IDE
+.vscode/
+.idea/
+
+# local data you may not want
+*.log.env 
+*.env
+.env
