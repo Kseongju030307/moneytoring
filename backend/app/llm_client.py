@@ -10,7 +10,7 @@ from google import genai
 from google.genai import types
 
 
-GEMINI_API_KEY = "AQ.Ab8RN6KEjhNY2gVyguP3Ckt5J7992w0GNXBkiykWywRgelj7RQ"
+GEMINI_API_KEY = "Gogle-GenAI-API-Key" #구글 제미니 API 키를 환경 변수로 설정하거나 직접 입력하세요.
 
 TEXT_MODEL = "gemini-2.5-flash"
 VISION_MODEL = "gemini-2.5-flash"
